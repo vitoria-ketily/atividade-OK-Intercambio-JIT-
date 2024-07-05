@@ -446,6 +446,8 @@ select {
 @media (max-width: 1024px) {
   .inicio {
     height: 60vh;
+    background-size: cover;
+    background-position: center;
   }
 
   .texto-sobre-imagem h1 {
